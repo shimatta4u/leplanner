@@ -1,0 +1,117 @@
+.coverimage {background:url(demos/office.png) no-repeat center top / cover !important ;}
+    .colon6{
+     background:url(../../uploads/2014/02/banner4.jpg) no-repeat fixed center top / cover !important;
+    }
+ .colon7 {
+  background:url(../../uploads/2014/02/03_bg.jpg) no-repeat fixed center top  / cover !important;
+  }
+.form-control:focus {
+-webkit-box-shadow: 0 2px 0 #b32945 !important;
+box-shadow: 0 2px 0 #b32945 !important;
+}
+.colon6 .form-control:focus{
+  border-color: #b32945 !important;
+  -webkit-box-shadow: 0 0px 0 #b32945 !important;
+box-shadow: 0 0px 0 #b32945 !important;
+}
+.copyrights{
+
+  background-color:#0a0a0a !important; 
+
+}
+.clients{
+   background:url(demos/banner4.jpg) no-repeat fixed center top / cover !important; 
+}
+.testimonials  {
+   background:url(demos/03_bg.html) no-repeat fixed center top / cover !important; 
+  }
+.navbar, .affix{
+
+  //  background-color:#b32945 !important;
+
+}
+
+.footercolon{
+
+    background-color:#1a1a1a !important;
+
+}
+
+.widget_wysija_cont > form > .wysija-submit,
+
+{
+
+background-color: #b32945  !important;
+
+}
+
+.nav-tabs > li > a, .form-group .form-control.error, .form-group .form-control.error:focus, .panel-default > .panel-heading, .portfolio-details, blockquote, blockquote.pull-right, .form-control:focus, .colon6 .form-control:focus, .footercolon .form-control:focus, .colon6 .form-control:focus, .footercolon .form-control:focus, .post-meta a:hover, #volume{
+
+	border-color: #b32945  !important;
+
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .nav-tabs > li > a, .nav-tabs > li > a:hover, .navbar-toggle, .timeline .post-wrap:hover:after, div.custom-box div.custom-box-icon, #volume, #pricing-table #most-popular, .back-to-top, .btn-default
+
+{background-color: #b32945  !important; }
+
+
+
+.clients-wrap, .da-thumbs .portfolio-item a div, .tpl2 .bg
+
+{/*background-color: rgba(179, 41, 69, 0.8)  !important;*/}
+
+
+
+/*.barcolor, .nav > li > a:hover, .nav > li.current a, .service-title h2 span, .footer-widget-title h1 span{
+
+	color: #b32945  !important;
+
+}
+
+.social a:hover{
+
+	color: #000  !important;
+
+}*/
+
+
+.widget_wysija_cont > form > .wysija-submit,
+
+.wpcf7 .wpcf7-form > p > .wpcf7-submit,
+
+#commentform p > #submit
+
+{background-color: #b32945  !important; }
+
+
+
+::selection{
+
+	color: white;
+
+	background:  #b32945 !important;
+
+}
+
+
+
+body {
+
+		background-color: #f9f9f9;
+
+		color: #7C7C7C;
+
+		font-family:arial !important;
+
+		font-size:16px !important;
+
+		font-weight: 400;
+
+		line-height: 1.825;
+
+		margin:0;
+
+		padding:0;
+
+	}?>
